@@ -29,6 +29,9 @@ Creating this app gave me a lot more oppourtunity working with a team, which pro
   
 * <a href="https://glacial-thicket-98751-ead1051b20e4.herokuapp.com/login">notetakerzzz app</a>
 
+<img width="1950" alt="Productivity-Pal-screen-shot" src="https://github.com/GregNasir/productivity-pal/assets/63434657/4abe273d-0dbc-4978-afd0-c4dff407f25a">
+
+
 ## Installation
 
 Please visit the app [here](https://productivity-pal-a83731041d87.herokuapp.com/) and visit the repo [here](https://github.com/GregNasir/productivity-pal)
